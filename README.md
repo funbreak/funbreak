@@ -6,7 +6,3 @@ Welcome to my Profile.
 - ![Steam Logo](https://i.imgur.com/RAjZrQb.png) __Steam__ - [id/autistisch](https://steamcommunity.com/id/autistisch)
 - ![Twitter Logo](https://i.imgur.com/HrV9zuh.png) __Twitter__ - [soondotminus](https://twitter.com/soondotminus)
 
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/funbreak/funbreak/main/background.jpg');]{x0000}$}
